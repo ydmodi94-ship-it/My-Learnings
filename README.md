@@ -85,8 +85,8 @@ Or use [Google Colab](https://colab.research.google.com/) — no installation ne
 ## 🧑‍💻 Author
 
 **Your Name**
-- GitHub: [@your_username](https://github.com/your_username)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+- GitHub: [@ydmodi94-ship-it](https://github.com/ydmodi94-ship-it)
+- LinkedIn: [Yash Modi](https://www.linkedin.com/in/yash-modi-52b899281/)
 
 ---
 
