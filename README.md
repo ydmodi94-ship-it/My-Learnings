@@ -1,26 +1,100 @@
-# My-Learnings
-Here is what I learn in my study
-# 🐍 Python Data Structures
+# 🐍 Python Learning Journey — Data Structures
 
-A hands-on assignment notebook covering core Python data structures.
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat&logo=jupyter)
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat)
+
+A structured collection of Python assignments covering core programming concepts, starting with Data Structures.
+
+---
 
 ## 📚 Topics Covered
 
-| Data Structure | Mutable | Ordered | Duplicates |
-|---|---|---|---|
-| `list []` | ✅ | ✅ | ✅ |
-| `tuple ()` | ❌ | ✅ | ✅ |
-| `set {}` | ✅ | ❌ | ❌ |
-| `dict {k:v}` | ✅ | ❌ (keys) | ❌ (keys) |
+### Day 5 — Python Data Structures
 
-## 📁 Files
-- `Python_Data_Structure_Assignment_Day_5.ipynb` — Day 5 assignment notebook
+| Data Structure | Syntax | Mutable | Ordered | Duplicates | Indexing |
+|---|---|---|---|---|---|
+| List | `[ ]` | ✅ | ✅ | ✅ | ✅ |
+| Tuple | `( )` | ❌ | ✅ | ✅ | ✅ |
+| Set | `{ }` | ✅ | ❌ | ❌ | ❌ |
+| Dictionary | `{key: value}` | ✅ | ❌ | ❌ (keys) | ✅ |
 
-## 🛠️ How to Run
-1. Clone this repo: `git clone <your-repo-url>`
-2. Open terminal and run: `jupyter notebook`
-3. Open the `.ipynb` file
+**Concepts practised:**
+- Creating, accessing, and modifying Lists
+- Using `.append()`, `.insert()`, `.extend()`, `.remove()`, `.sort()`
+- List slicing and list comprehensions
+- String ↔ List conversion with `.split()` and `.join()`
+- Sets — union, add, remove, and duplicate handling
+- Understanding mutability vs immutability
 
-## 🔧 Requirements
-- Python 3.x
-- Jupyter Notebook (`pip install notebook`)
+---
+
+## 📁 Repository Structure
+
+```
+python-learning-journey/
+│
+├── README.md
+│
+├── Day_05/
+│   └── Python_Data_Structure_Assignment_Day_5.ipynb
+│
+├── Day_06/          ← coming soon
+│
+└── requirements.txt
+```
+
+---
+
+## 🛠️ How to Run Locally
+
+**1. Clone this repository**
+```bash
+git clone https://github.com/YOUR_USERNAME/python-learning-journey.git
+cd python-learning-journey
+```
+
+**2. Install dependencies**
+```bash
+pip install -r requirements.txt
+```
+
+**3. Launch Jupyter Notebook**
+```bash
+jupyter notebook
+```
+
+**4.** Open the `.ipynb` file from the Jupyter interface in your browser.
+
+---
+
+## ⚙️ Requirements
+
+- Python 3.7+
+- Jupyter Notebook
+
+Install with:
+```bash
+pip install notebook
+```
+
+Or use [Google Colab](https://colab.research.google.com/) — no installation needed, just upload the `.ipynb` file.
+
+---
+
+## 🧑‍💻 Author
+
+**Your Name**
+- GitHub: [@your_username](https://github.com/your_username)
+- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+
+---
+
+## 📌 Notes
+
+> This repository is part of a self-paced Python learning series.  
+> Each folder represents one day of practice assignments.
+
+---
+
+*⭐ If you find this helpful, consider giving the repo a star!*
